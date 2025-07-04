@@ -1,5 +1,6 @@
 # Object-Detection-ML-project
 ENHANCING THE ACCURACY IN OBJECT DETECTION WITH SPECIFIC CNN MODEL FINE TUNING
+
 📌OVERVIEW
 
 This project focuses on building a high-accuracy object detection model using a custom Convolutional Neural Network (CNN) architecture. The model classifies images into two categories — "Cow" and "Patel" — using minimal training data, making it suitable for low-resolution and real-time image scenarios.
